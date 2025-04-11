@@ -58,8 +58,6 @@ Contains 10,000 customer profiles with 11 features:
    - Evaluated multiple algorithms:
      - Logistic Regression
      - Random Forest
-     - K-Nearest Neighbors
-     - Gaussian Naive Bayes
    - Optimized hyperparameters using GridSearchCV
 
 5. **Model Evaluation**
