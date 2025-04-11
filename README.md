@@ -80,13 +80,14 @@ Contains 10,000 customer profiles with 11 features:
   - Age-specific product bundles
   - Regional service improvements
   - Cross-selling strategies
-
+    
+- **Deployed Streamlit Dashboard**
+   [Bank Cuatomer Churn Dashboard](https://leboswaratlhe-bank-customer--bankcustomerchurnprediction-sw8vcj.streamlit.app/)
+  
 ##  How to Run
 
 1. Clone repository:
    ```bash
    git clone [github](https://github.com/LeboSwaratlhe/Bank-Customer-Churn-Prediction.git)
    cd bank-churn-prediction
-2. Deployed Streamlit Dashboard
-   ```bash
-   [Bank Cuatomer Churn Dashboard](https://leboswaratlhe-bank-customer--bankcustomerchurnprediction-sw8vcj.streamlit.app/)
+
