@@ -82,7 +82,7 @@ Contains 10,000 customer profiles with 11 features:
   - Cross-selling strategies
     
 - **Deployed Streamlit Dashboard**
-   [Bank Cuatomer Churn Dashboard](https://leboswaratlhe-bank-customer--bankcustomerchurnprediction-sw8vcj.streamlit.app/)
+   [Bank Customer Churn Dashboard](https://leboswaratlhe-bank-customer--bankcustomerchurnprediction-sw8vcj.streamlit.app/)
   
 ##  How to Run
 
